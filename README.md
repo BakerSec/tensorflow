@@ -5,6 +5,6 @@ Thank you for your time and consideration. When this in-progress project is fini
 
 01_Neural_Network_Regression_with_Tensorflow.ipynb has 2 other notebook version due to the sensitivity of model run results least accurate model
 
-01_Neural_Network_Regression_with_Tensorflow-A.ipynb -- notebook top continue from file below
+01_Neural_Network_Regression_with_Tensorflow-A.ipynb -- notebook to continue file below
 
 01_Neural_Network_Regression_with_Tensorflow-2nd-learning_rate-adjustment-to-.01.ipynb -- shows the more accurate model
